@@ -3,8 +3,7 @@ Hello! I'm Emmanuel Ameri
 **About Me**
 
 I'm a recent graduate of Olaf College with a strong foundation in Mathematics and Quantitative Economics. My passion lies in data analysis, and I'm excited to apply my skills to drive insights and inform decision-making.
-**
-Interests**
+**Interests**
 
 Data Analysis: I'm fascinated by the power of data to tell stories and uncover hidden patterns. I enjoy working with datasets to extract meaningful insights and visualize complex information.
 Quantitative Economics: My academic background has equipped me with a solid understanding of economic principles and statistical techniques. I'm interested in applying these skills to real-world problems.
