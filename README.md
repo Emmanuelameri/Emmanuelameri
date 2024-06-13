@@ -17,6 +17,3 @@ I'm eager to collaborate on projects that involve data analysis, statistical mod
 You can reach me at ad18eame@uwcad.it . I'd love to connect and explore opportunities for collaboration.
 
 
-**Fun Fact**
-
-In my free time, I enjoy reading about economic history and exploring the intersection of data science and social impact. Did you know that I can recite the first 20 prime numbers from memory?
