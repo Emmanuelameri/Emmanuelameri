@@ -14,5 +14,7 @@ I'm eager to collaborate on projects that involve data analysis, statistical mod
 **Get in Touch**
 
 You can reach me at ad18eame@uwcad.it . I'd love to connect and explore opportunities for collaboration.
+**Fun Fact**
+I like to study about indigenous tribes I recently learnt about the Sámi Indigenous Group of Norway. This link could teach you a bit about them https://storymaps.arcgis.com/stories/79ef3fb66e4b491fa7216ccc13787f6b?play=true&speed=slow.
 
 
