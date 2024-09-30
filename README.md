@@ -22,7 +22,7 @@ I love reading stories, especially sci-fi and fantasy novels. In my free time, I
 - Inspire others to reach their potential every day.
 - Explore new technologies and methodologies in data science.
  ## 🔧 Featured Projects
- **[Implications of Monetary Policy on Fiscal Policy](https://github.com/Emmanuelameri/Emmanuelameri/blob/main/Implications%20of%20Monetary%20Policy%20on%20Fiscal%20Policy%20(2).pdf)**: An analysis exploring the interactions between monetary and fiscal policies.
+- **[Implications of Monetary Policy on Fiscal Policy](https://github.com/Emmanuelameri/Emmanuelameri/blob/main/Implications%20of%20Monetary%20Policy%20on%20Fiscal%20Policy%20(2).pdf)**: An analysis exploring the interactions between monetary and fiscal policies.
 
 - **[Comparative Analysis of Zimbabwe and Its Neighbors on Corruption and Governance](https://github.com/Emmanuelameri/Emmanuelameri/blob/main/A%20Comparative%20Analysis%20of%20Zimbabwe%20and%20Its%20Neighbors%20on%20Corruption%20and%20Governance%20on%20Economic%20Growth.pdf)**: A research paper investigating the impact of governance and corruption on economic growth in Zimbabwe and its neighboring countries.
 
