@@ -9,18 +9,11 @@
 - [Tech Strategy Visualizations](https://emmanuelameri.shinyapps.io/Tech/)
 ## ⚡ Fun Fact
 I love reading stories, especially sci-fi and fantasy novels. In my free time, I write short stories and play chess! ♟️
-### **Goals and Aspirations**
-- **Include Your Goals:** Share what you aim to achieve in your career or personal development.
-  - **Example:**
-    ```markdown
-    ## 🎯 Goals
-    - Inspire others to reach their potential every day.
-    - Explore new technologies and methodologies in data science.
-    ```
-- ✈️ Appreciate the play for what it is not what you think it should be ?
 ## 🎯 Goals
 - Inspire others to reach their potential every day.
 - Explore new technologies and methodologies in data science.
+## ✈️ Advice 
+Appreciate the play for what it is not what you think it should be ?
  ## 🔧 Featured Projects
 - **[Implications of Monetary Policy on Fiscal Policy](https://github.com/Emmanuelameri/Emmanuelameri/blob/main/Implications%20of%20Monetary%20Policy%20on%20Fiscal%20Policy%20(2).pdf)**: An analysis exploring the interactions between monetary and fiscal policies.
 
