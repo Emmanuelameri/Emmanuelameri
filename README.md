@@ -30,9 +30,9 @@ I love reading stories, especially sci-fi and fantasy novels. In my free time, I
 
 - **[Strategic Approaches to Limiting State Power](https://github.com/Emmanuelameri/Emmanuelameri/blob/main/Strategic%20Approaches%20to%20Limiting%20State%20Power_%20Theoretical%20Insights%20and%20Practical%20Solutions.pdf)**: A theoretical exploration of mechanisms to limit state power.
 
- **[ An Interactive Story Map on Sámi Culture](https://storymaps.arcgis.com/stories/79ef3fb66e4b491fa7216ccc13787f6b?play=true&speed=medium)**: An engaging story map illustrating key themes and insights in my research.
+- **[ An Interactive Story Map on Sámi Culture](https://storymaps.arcgis.com/stories/79ef3fb66e4b491fa7216ccc13787f6b?play=true&speed=medium)**: An engaging story map illustrating key themes and insights in my research.
 ## 📫 Contact
-- Email: ad18eame@uwcad.it 
+## Email: ad18eame@uwcad.it 
 
 <!---
 Emmanuelameri/Emmanuelameri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
