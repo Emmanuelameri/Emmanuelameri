@@ -6,7 +6,7 @@
 - Tech Industrialization
 ## 🌱 Current Projects
 - [Cross-Country Analysis of Microfinance and Tech Industrialization](link-to-repo)
-- [Tech Strategy Visualizations]([link-to-repo](https://emmanuelameri.shinyapps.io/Tech/))
+- [Tech Strategy Visualizations](link-to-repo](https://emmanuelameri.shinyapps.io/Tech/)
 ## ⚡ Fun Fact
 I love reading stories, especially sci-fi and fantasy novels. In my free time, I write short stories and play chess! ♟️
 ### **Goals and Aspirations**
